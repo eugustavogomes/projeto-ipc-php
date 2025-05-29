@@ -1,0 +1,6 @@
+.env
+ipc_keyfile
+*.log
+*.db
+*.DS_Store
+

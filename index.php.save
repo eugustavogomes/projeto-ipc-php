@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Envio de Dados</title>
+</head>
+<body>
+    <h1>Formulário de Envio</h1>
+    <form method="POST" action="form.php">
+        <input type="text" name="valor" placeholder="Digite um valor" required />
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
